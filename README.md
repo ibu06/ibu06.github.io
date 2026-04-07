@@ -97,7 +97,7 @@ This portfolio project is designed to demonstrate practical SQL skills in a heal
 
 The objectives of the project are to analyse patient activity across NHS regions, trusts, and hospitals; compare waiting times and length of stay across diagnosis groups; evaluate treatment costs by diagnosis, region, and outcome; examine patient outcomes by age group and gender; and identify referral and admission patterns that may affect operational pressure.
   
-**SQL Code:** [SQL Queries](https://github.com/ibu06/ibu06.github.io/blob/main/NHS_Pat_Outcomes.sql)
+**SQL Code:** [SQL Queries](https://github.com/ibu06/ibu06.github.io/blob/main/nhs_patients_data.sql)
  
 **SQL Skills Used:**
  - Data retrieval using SELECT and filtering with WHERE
