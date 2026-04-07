@@ -22,6 +22,7 @@ The total recorded sales amount to £24.83 million, indicating a substantial vol
 - Enhance digital payment systems to align with customer preferences.
 
 **Dashboard Overview:** This dashboard provides an analysis of online retail transactions, focusing on total sales, product category performance, and payment method distribution. It highlights key trends in customer purchasing behaviour and revenue generation across different product categories.
+
 ![Retail_Db](Retail_Db.PNG)
 ---
 
