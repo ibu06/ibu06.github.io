@@ -1,4 +1,4 @@
-  # Project 1
+# Project 1
 
 **Title:** [Online Retail Transactions Interactive Dashboard](https://github.com/ibu06/ibu06.github.io/blob/main/Retail_Transaction%20Project.xlsb)
 
